@@ -1,16 +1,12 @@
-## Hi there 👋
+<br>
 
-<!--
-**yuuu37/yuuu37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>
+    You’re a spark in the dark and my clothes all caught aflame<br>
+    You should feel how I feel when somebody says your name<br>
+    I’m a car speeding down the boulevard without a brake<br>
+    And I want you more than any stupid song could ever say
+  </em>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
